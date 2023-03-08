@@ -1,0 +1,11 @@
+.accordion-button::after {
+  filter: invert(1);
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: var(red);
+}
+
+::placeholder {
+  color: var(red);
+}
