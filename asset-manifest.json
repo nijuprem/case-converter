@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nijuprem/case-converter/static/css/main.f2bc22f8.css",
+    "main.js": "/nijuprem/case-converter/static/js/main.547d9488.js",
+    "static/js/787.d4898441.chunk.js": "/nijuprem/case-converter/static/js/787.d4898441.chunk.js",
+    "index.html": "/nijuprem/case-converter/index.html",
+    "main.f2bc22f8.css.map": "/nijuprem/case-converter/static/css/main.f2bc22f8.css.map",
+    "main.547d9488.js.map": "/nijuprem/case-converter/static/js/main.547d9488.js.map",
+    "787.d4898441.chunk.js.map": "/nijuprem/case-converter/static/js/787.d4898441.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2bc22f8.css",
+    "static/js/main.547d9488.js"
+  ]
+}
